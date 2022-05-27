@@ -1,5 +1,5 @@
 {
-  "name": "almacen",
+  "name": "salvador bermudez",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -7,7 +7,7 @@
     "start": "node app"
   },
   "keywords": [],
-  "author": "Jane jone",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
