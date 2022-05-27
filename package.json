@@ -7,7 +7,7 @@
     "start": "node app"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jane jone",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
